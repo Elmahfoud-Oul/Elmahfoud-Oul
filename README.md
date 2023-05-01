@@ -51,7 +51,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.frak3-1.fna.fbcdn.net/v/t39.30808-6/299299414_464983462303820_7619408958409407146_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WnHk-QU8bJoAX8kNJn6&_nc_zt=23&_nc_ht=scontent.frak3-1.fna&oh=00_AfC-9rxnYOVxgk1-VgkXAasqWhg-yV3JNYy2mytWdgcdbg&oe=6454AE26"/>]()
 
 **Artificial intelligence engineer** \
-[**Claxa Groupe**](mailto:contacts@aptokronos.art) • Full-time \
+[**Claxa Groupe**](mailto:claxagroupe@gmail.com) • Full-time \
 Linguagens & Tecnologias: `Python`, `OpenCV`, `VS Code`, `C`, `Arduino Software (IDE)`,`Arduino Uno`,\
 Featured projects: [Hand Tracking](), [Robot AutoDrive]()
 <br/>
