@@ -53,7 +53,7 @@ In the overview below you will find my most recent work experience:
 **Artificial intelligence engineer** \
 [**Claxa Groupe**](mailto:claxagroupe@gmail.com) • Full-time \
 Linguagens & Tecnologias: `Python`, `OpenCV`, `VS Code`, `C`, `Arduino Software (IDE)`,`Arduino Uno`,\
-Featured projects: [Hand Tracking](), [Robot AutoDrive]()
+Featured projects: [Hand Tracking]() & [Robot AutoDrive]()
 <br/>
 
 <br/>
