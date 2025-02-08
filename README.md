@@ -47,10 +47,10 @@
 ### Background Experience:
 In the overview below you will find my most recent work experience:
 
-<img align="left" height="94px" width="94px" alt="Artificial Intelligence Logo" src="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Artificial_Intelligence_Logo_Design_27_1024x1024.png" />
+<img align="left" height="94px" width="94px" alt="Artificial Intelligence Logo" src="https://uploads.turbologo.com/uploads/design/preview_image/68466142/preview_image20241130-1-vnb8t6.png" />
 
-**Artificial intelligence engineer** \
-[**TAG Groupe**](mailto:c) • Part-time \
+**Artificial intelligence training** \
+[**TAG Groupe**](mailto:) • Part-time \
 Linguagens & Tecnologias: `Python`, `OpenCV`, `VS Code`, `C`, `Arduino Software (IDE)`,`Arduino Uno`,\
 Featured projects: [Hand Tracking]() & [Robot AutoDrive]()
 <br/>
