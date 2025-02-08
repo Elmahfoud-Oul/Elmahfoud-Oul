@@ -47,7 +47,7 @@
 ### Background Experience:
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://scontent.frak3-1.fna.fbcdn.net/v/t39.30808-6/299299414_464983462303820_7619408958409407146_n.jpg?](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXthLk5FGUA_Be0OU-qzGsqPP_LF56N52vw&s)_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=WnHk-QU8bJoAX8kNJn6&_nc_zt=23&_nc_ht=scontent.frak3-1.fna&oh=00_AfC-9rxnYOVxgk1-VgkXAasqWhg-yV3JNYy2mytWdgcdbg&oe=6454AE26"/>]()
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Artificial_Intelligence_Logo_Design_27_1024x1024.png]()
 
 **Artificial intelligence engineer** \
 [**TAG Groupe**](mailto:c) • Part-time \
