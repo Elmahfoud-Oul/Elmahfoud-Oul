@@ -44,19 +44,23 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 
-### Background Experience:
-In the overview below you will find my most recent work experience:
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNh3BEhFqHhKGLCnzSeiln4eueUIht3EaIA&s" 
+    alt="CLAXA Group Logo" 
+    width="94" height="94" 
+    style="object-fit: contain;"
+  />
+  <div>
+    <strong>Frontend Development Trainee</strong><br/>
+    <a href="mailto:" style="text-decoration:none; color:#0077cc; font-weight:bold;">CLAXA GROUP</a> &bull; Internship (20/06/2024 - 20/07/2024) &bull; Agadir, Sous-Massa, MAR<br/>
+    <em>Technologies:</em> <code>HTML</code>, <code>CSS</code>, <code>Pascal</code>, <code>Algorithms</code><br/>
+    <p style="margin: 8px 0 0;">
+      Joined as a beginner developer, focusing on foundational web technologies and programming fundamentals. Learned to build web layouts, practiced problem-solving, and developed core technical skills under supervision.
+    </p>
+  </div>
+</div>
 
-<img align="left" height="94px" width="94px" alt="Artificial Intelligence Logo" src="https://uploads.turbologo.com/uploads/design/preview_image/68466142/preview_image20241130-1-vnb8t6.png" />
-
-**Artificial intelligence training** \
-[**TAG Groupe**](mailto:) • Part-time \
-Linguagens & Tecnologias: `Python`, `OpenCV`, `VS Code`, `C`, `Arduino Software (IDE)`,`Arduino Uno`,\
-Featured projects: [Hand Tracking]() & [Robot AutoDrive]()
-<br/>
-
-<br/>
-<br/>
 
 Please find me at [GitHub](https://github.com/Elmahfoud-Oul) for a any detailed description of my work experience, education and certification.
 
