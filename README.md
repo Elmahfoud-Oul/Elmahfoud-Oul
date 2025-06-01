@@ -44,22 +44,24 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNh3BEhFqHhKGLCnzSeiln4eueUIht3EaIA&s" 
-    alt="CLAXA Group Logo" 
-    width="94" height="94" 
-    style="object-fit: contain;"
-  />
-  <div>
-    <strong>Frontend Development Trainee</strong><br/>
-    <a href="mailto:" style="text-decoration:none; color:#0077cc; font-weight:bold;">CLAXA GROUP</a> &bull; Internship (20/06/2024 - 20/07/2024) &bull; Agadir, Sous-Massa, MAR<br/>
-    <em>Technologies:</em> <code>HTML</code>, <code>CSS</code>, <code>Pascal</code>, <code>Algorithms</code><br/>
-    <p style="margin: 8px 0 0;">
-      Joined as a beginner developer, focusing on foundational web technologies and programming fundamentals. Learned to build web layouts, practiced problem-solving, and developed core technical skills under supervision.
-    </p>
-  </div>
-</div>
+<img align="left" height="94px" width="94px" alt="CLAXA Group Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNh3BEhFqHhKGLCnzSeiln4eueUIht3EaIA&s" />
+
+**Frontend Development Trainee**  
+[**CLAXA GROUP**](mailto:) • Internship (Part-time)  
+Languages & Technologies: `HTML`, `CSS`, `Pascal`, `Algorithms`  
+Featured projects: N/A  
+
+<br/><br/>
+
+20/06/2024 - 20/07/2024 — Frontend Development Trainee, CLAXA – Agadir, Sous-Massa, MAR
+
+- Joined as a beginner developer, focusing on foundational web technologies.  
+- Learned and practiced HTML and CSS to build basic web page layouts and styles.  
+- Gained an introduction to algorithms and basic problem-solving techniques.  
+- Studied and experimented with Pascal as part of programming fundamentals.  
+- Worked under supervision to understand the basics of frontend development and project structure.  
+- Participated in a learning-focused environment to build core technical and logical thinking skills.  
+
 
 
 Please find me at [GitHub](https://github.com/Elmahfoud-Oul) for a any detailed description of my work experience, education and certification.
