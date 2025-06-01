@@ -51,7 +51,7 @@
 Languages & Technologies: `HTML`, `CSS`, `Pascal`, `Algorithms`  
 Featured projects: N/A  
 
-<br/><br/>
+<br/>
 
 20/06/2024 - 20/07/2024 — Frontend Development Trainee, CLAXA – Agadir, Sous-Massa, MAR
 
@@ -61,12 +61,6 @@ Featured projects: N/A
 - Studied and experimented with Pascal as part of programming fundamentals.  
 - Worked under supervision to understand the basics of frontend development and project structure.  
 - Participated in a learning-focused environment to build core technical and logical thinking skills.  
-
-
-
-Please find me at [GitHub](https://github.com/Elmahfoud-Oul) for a any detailed description of my work experience, education and certification.
-
-
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
