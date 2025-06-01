@@ -53,7 +53,7 @@ Featured projects: N/A
 
 <br/>
 
-20/06/2024 - 20/07/2024 — Frontend Development Trainee, CLAXA – Agadir, Sous-Massa, MAR
+Frontend Development Trainee, CLAXA GROUP
 
 - Joined as a beginner developer, focusing on foundational web technologies.  
 - Learned and practiced HTML and CSS to build basic web page layouts and styles.  
