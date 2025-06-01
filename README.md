@@ -49,7 +49,7 @@
 
 **Frontend Development Trainee**  
 [**CLAXA GROUP**](mailto:) • Internship (Part-time)  
-Languages & Technologies: `HTML`, `CSS`, `Pascal`, `Algorithms`  
+Languages & Technologies: `HTML`, `CSS`, `C`, `Algorithms`  
 Featured projects: N/A  
 
 <br/>
