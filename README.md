@@ -45,24 +45,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 
-<img align="left" height="94px" width="94px" alt="CLAXA Group Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnNh3BEhFqHhKGLCnzSeiln4eueUIht3EaIA&s" />
-
-**Frontend Development Trainee**  
-[**CLAXA GROUP**](mailto:) • Internship (Part-time)  
-Languages & Technologies: `HTML`, `CSS`, `C`, `Algorithms`  
-Featured projects: N/A  
-
-<br/>
-
-Frontend Development Trainee, CLAXA GROUP
-
-- Joined as a beginner developer, focusing on foundational web technologies.  
-- Learned and practiced HTML and CSS to build basic web page layouts and styles.  
-- Gained an introduction to algorithms and basic problem-solving techniques.  
-- Studied and experimented with Pascal as part of programming fundamentals.  
-- Worked under supervision to understand the basics of frontend development and project structure.  
-- Participated in a learning-focused environment to build core technical and logical thinking skills.  
-
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Elmahfoud-Oul}/count.svg" /></p> 
